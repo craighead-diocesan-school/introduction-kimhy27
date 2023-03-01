@@ -1,8 +1,8 @@
 <header>
     <h1> My Husband 💙</h1>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Solitreo&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Neucha&family=Pangolin&family=Solitreo&display=swap" rel="stylesheet">
 </header>
 <p>fun fact: I don't actually want to get married to Felix but hes really hot</p>
 <img src="felixbubble1.jpg"> <img src="felixbubble2.jpg">
@@ -32,6 +32,7 @@
     border-radius: 0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
+    font-family: 'Pangolin', cursive;
     }
     h1{
       text-align: center;
@@ -39,6 +40,7 @@
     }
     p{
         text-align: center;
+        font-family: 'Pangolin', cursive;
     }
     img{
       width: 280;
