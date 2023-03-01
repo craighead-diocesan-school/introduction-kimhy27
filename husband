@@ -1,7 +1,12 @@
 <header>
     <h1> My Husband 💙</h1>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Solitreo&display=swap" rel="stylesheet">
 </header>
 <p>fun fact: I don't actually want to get married to Felix but hes really hot</p>
+<img src="felixbubble1.jpg"> <img src="felixbubble2.jpg">
+<p>some footage of felix texting me 🫰🏼</p>
 <nav>
   <a href="bff.html"> My Friends ❤️</a>
   <a href="index.html"> about me 🫶🏼 </a>
@@ -30,8 +35,13 @@
     }
     h1{
       text-align: center;
+      font-family: 'Solitreo', cursive;
     }
     p{
         text-align: center;
+    }
+    img{
+      width: 280;
+      margin-left: 300;
     }
 </style>
