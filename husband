@@ -8,11 +8,15 @@
 <img src="felixbubble1.jpg"> <img src="felixbubble2.jpg">
 <p>some footage of felix texting me 🫰🏼</p>
 <nav>
-  <a href="bff.html"> My Friends ❤️</a>
-  <a href="index.html"> about me 🫶🏼 </a>
-  <a href="husband"> about my loml 💙</a>
+  <a href="bff.html"> My Friends ♥</a>
+  <a href="index.html"> about me ♥ </a>
+  <a href="husband"> about my loml ♥</a>
 </nav>
-
+<footer>
+  <p>
+    &copy; Hyunji Kim 2023
+  </p>
+</footer>
 
 <style>
       nav {
@@ -48,5 +52,7 @@
     }
     body{
   background-color: floralwhite;
+  footer{
+  margin-left: 570;
 }
 </style>
