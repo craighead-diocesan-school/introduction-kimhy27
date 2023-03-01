@@ -46,4 +46,7 @@
       width: 280;
       margin-left: 300;
     }
+    body{
+  background-color: floralwhite;
+}
 </style>
