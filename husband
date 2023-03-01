@@ -1,0 +1,37 @@
+<header>
+    <h1> My Husband 💙</h1>
+</header>
+<p>fun fact: I don't actually want to get married to Felix but hes really hot</p>
+<nav>
+  <a href="bff.html"> My Friends ❤️</a>
+  <a href="index.html"> about me 🫶🏼 </a>
+  <a href="husband"> about my loml 💙</a>
+</nav>
+
+
+<style>
+      nav {
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+  }
+  a:hover {
+    color: white;
+    background-color: black;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    }
+    h1{
+      text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+</style>
